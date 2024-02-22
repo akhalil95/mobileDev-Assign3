@@ -28,5 +28,5 @@ Allows users to browse products and view orders offline. Ensures up-to-date info
 
 ## Decision 6: Payment Gateways
 We will use Stripe and Paypal.
-## Rationale
+### Rationale
 They support multiple payment methods and are easy to integrate.
